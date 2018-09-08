@@ -12,3 +12,6 @@ InfoPlist
 
 Main benifit of this approach is we can create different confiuration files having different sets of values for keys with the same name.
 We just need to select configuration
+
+![alt text](https://github.com/anurag18/ios/blob/xcconfig/Xcode_BuildSetting.png)
+
