@@ -8,18 +8,19 @@ BuildSetting
 BuildConfiguration
 InfoPlist
 
-## Approach
+## Approach (Steps)
 
-## Create Build Configuration as per project Requirement
+1> Create Build Configuration as per project Requirement
 Example :- Debug,Release,SIT,Production,Stub
-## Create XCConfig file (Name as per your project standard) which could be selected through different build configuration
+2> Create XCConfig file (Name as per your project standard) which could be selected through different build configuration
 Example :- Debug_Config,Release_Config,SIT_Config and so on.
 
-## Define key value pair inside xcconfig file
-## Now you can use those key inside info plist file for different setting like bundle identifier,icon and so on
-## you can create and use different key value pair with respect to different build configuration and use in our application
+3> Define key value pair inside xcconfig file
+4> Now you can use those key inside info plist file for different setting like bundle identifier,icon and so on
+5> you can create and use different key value pair with respect to different build configuration and use in our application
 
 
-## Below Diagram can help you to understand flow and usage.
+### Below Diagram can help you to understand flow and usage.
+
 ![alt text](https://github.com/anurag18/ios/blob/xcconfig/Xcode_BuildSetting.png)
 
