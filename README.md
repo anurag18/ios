@@ -36,6 +36,7 @@ AS_Secrent   |  3543232klj5k43hhk    | 883232kl443
 
 * you can create and use different key value pair with respect to different build configuration and use in our application
 
+## SO Now, You can choose any build configuration under scheme -> run
 
 ### Below Diagram can help you to understand flow and usage.
 
